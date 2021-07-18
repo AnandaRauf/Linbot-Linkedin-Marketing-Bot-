@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Linbot (Linkendln bot)", "Linbot (Linkendln bot)\Linbot (Linkendln bot).pyproj", "{817769B6-3D87-4571-9A8E-B7EF7C5B1D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817769B6-3D87-4571-9A8E-B7EF7C5B1D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817769B6-3D87-4571-9A8E-B7EF7C5B1D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB958B10-0C49-4A78-A5D2-F6730FA2B600}
+	EndGlobalSection
+EndGlobal
